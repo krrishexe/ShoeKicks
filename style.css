@@ -174,7 +174,6 @@ body{
 }
 #product1 .pro:hover{
     transform: scale(1.1);
-    /* box-shadow: 20px 20px 30px rgba(224,214, 211, 0.3); */
     
 }
 #product1 .pro img{
